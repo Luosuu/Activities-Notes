@@ -2,7 +2,7 @@
 
 ## 类型推断，静态类型，JIT
 
-语法树到语法树的函数 我们称之为 宏。
+语法树到语法树的函数 我们称之为**宏**。
 
 类型大小本质为将类型看作一个集合，计算集合的大小（取值区间的大小）
 
@@ -16,7 +16,7 @@ Stack Machine
 
 dis模块
 
-[okmij.org](okmij.org)
+[okmij.org](http://okmij.org/)
 
 编译原理
 
@@ -30,7 +30,7 @@ Python字节码
 
 RESTful API指符合REST规范的Web API，虽然几乎没有Web API完全符合REST规范。所以大概符合REST风格的现在都叫RESTful API。REST只是一个架构风格，而非强制要求。
 
-Flask是一个开发Web API的工具，只提供最基本的功能，有良好的拓展性。选择Flask表示比起Djanro的方便你选择了灵活和更多的可控制性。因此比起Flask+大而全的拓展更推荐Flask+一组优秀的工具。
+Flask是一个开发Web API的工具，只提供最基本的功能，有良好的拓展性。选择Flask表示比起Djanro的方便你选择了灵活和更多的可控制性。因此比起`Flask+大而全的拓展`更推荐`Flask+一组优秀的工具`。
 
 ### 推荐的学习路线
 
@@ -38,7 +38,9 @@ Flask是一个开发Web API的工具，只提供最基本的功能，有良好�
 2. 学习Flask原生实现
 3. 学习其他搭配工具
 
-[greyli.com](greyli.com) 李辉
+[李辉的个人网站 greyli.com](http://greyli.com/)
+
+网站里有很多python web开发的教程和分享。
 
 ## NLP
 
